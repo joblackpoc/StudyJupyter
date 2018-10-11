@@ -1,4 +1,4 @@
-# JupyterStudy by Natthawut Ponkrut Joblackpoc 12-10-2018
+# Study Jupyter by Natthawut Ponkrut Joblackpoc 12-10-2018
 
 case study about data_exchange from HDC database
 
@@ -47,11 +47,11 @@ case study about data_exchange from HDC database
 9. Past folder rdc_report to htdocs
 	localhost/rdc_report
 
-Please Clear person typearea_4 from your database as soon as possible
+# Please Clear person typearea_4 from your database as soon as possible
 We will support you when we follow up 
-Thank you
 
-See you next time
-Good Luck
+
+# See you next time
+Thank you Good Luck
 
 Natthawut Ponkrut : Joblackpoc@gmail.com
