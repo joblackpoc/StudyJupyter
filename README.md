@@ -44,8 +44,8 @@ case study about data_exchange from HDC database
 	pivot_ui(df)
 	right click pop_out open in new tab
 
-9. Past folder rdc_report to htdocs
-	localhost/rdc_report
+9. Past folder rdc_report in htdocs
+	http://localhost/rdc_report
 
 # Please Clear person typearea_4 from your database soon
 We will support you when we follow up 
