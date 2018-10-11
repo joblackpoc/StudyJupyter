@@ -1,4 +1,4 @@
-# JupyterStudy by Joblackpoc 12-10-2018
+# JupyterStudy by Natthawut Ponkrut Joblackpoc 12-10-2018
 
 case study about data_exchange from HDC database
 
@@ -50,5 +50,8 @@ case study about data_exchange from HDC database
 Please Clear person typearea_4 from your database as soon as possible
 We will support you when we follow up 
 Thank you
+
+See you next time
+Good Luck
 
 Natthawut Ponkrut : Joblackpoc@gmail.com
