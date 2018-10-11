@@ -47,7 +47,7 @@ case study about data_exchange from HDC database
 9. Past folder rdc_report to htdocs
 	localhost/rdc_report
 
-# Please Clear person typearea_4 from your database as soon as possible
+# Please Clear person typearea_4 from your database soon
 We will support you when we follow up 
 
 
