@@ -6,8 +6,8 @@ case study about data_exchange from HDC database
 2. Update anaconda -> conda update --all
 3. Upgrade python pip -> python -m pip install --upgrade pip
 4. Install pivottablejs -> 
-	pip install pivottablejs 
-	conda install pivottablejs
+	4.1 pip install pivottablejs 
+	4.2 conda install pivottablejs
 5. Install package -> Open Anaconda Navigator
 	install package - matplotlib, numpy, pandas, pivottable
 6. Install pymysql -> conda install -c anaconda pymysql
